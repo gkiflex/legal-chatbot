@@ -26,10 +26,11 @@ LegalEaseBot is designed to bridge the gap between complex legal jargon and ever
 
 1. **Clone or download the project files**
 
-git clone [your-repository-url]
+git clone https://github.com/gkiflex/legal-chatbot.git
 cd legalease_bot
 
 ### Execution or Start up
 
-We can start the chatbot using .bat (windows) or .sh (linux / mac)
-run the 'start_legalease.bat' file to start the chatbot
+1. We can start the chatbot using start_legalease.bat (windows) or start_legalease.sh (linux / mac)
+2. Once started, browse "http://localhost:7860/" to view the chatbot UI
+3. Start chatting with LegalEaseBot
